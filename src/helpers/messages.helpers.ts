@@ -1,0 +1,18 @@
+export const MessagesHelper = {
+  USER_ALREADY_EXISTS: 'User already',
+  USER_NOT_FOUND: 'User not found',
+  EMAIL_INVALID: 'Email is invalid',
+  EMAIL_NOT_CONFIRMED: 'Email not confirmed',
+  EMAIL_OR_PASSWORD_INVALID: 'Email or password invalid',
+  WEAK_PASSWORD: 'Password is too weak',
+  REFRESH_TOKEN_NOT_FOUND: 'Refresh not found',
+  REFRESH_IS_REVOKED: 'Refresh is revoked',
+  REFRESH_TOKEN_EXPIRED: 'Refresh token expired',
+  REFRESH_TOKEN_MALFORMED: 'Refresh token malformed',
+  TOKEN_EXPIRED: 'Token expired',
+  TOKEN_MALFORMED: 'Token malformed',
+  TOKEN_INVALID: 'Token invalid',
+  TOKEN_NOT_FOUND: 'Token not found',
+  ROLE_NOT_FOUND: 'Role not found',
+  ROLE_ALREADY_EXISTS: 'Role already exists',
+};
